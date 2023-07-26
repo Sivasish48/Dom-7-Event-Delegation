@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+    padding: 40px;
+    flex-direction: column;
+    align-items: center;
+    border-color: black;
+    border-radius: 10px;
+    border: 5px;
+    
+
+}
